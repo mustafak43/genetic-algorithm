@@ -1,5 +1,5 @@
 # genetic-algorithm
-Infinite Monkey Theorem solution using Genetic Algorithm in C++. It was originally created in 21st May 2020.
+Infinite Monkey Theorem solution using Genetic Algorithm in C++.
 
 The one in the video was created in C#: 
 https://www.youtube.com/watch?v=LkKNkx31vaE
